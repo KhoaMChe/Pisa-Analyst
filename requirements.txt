@@ -1,0 +1,13 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+graphviz
+streamlit
+plotly
+statsmodels
+streamlit-option-menu
